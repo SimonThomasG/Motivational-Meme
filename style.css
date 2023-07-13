@@ -22,8 +22,9 @@ h1 {
 }
 
 p{
-    color: white;
+   color: white;
     text-align: center;
-    padding: 0px;
+    font-size: 120%;
     margin-top: 0%;
+  
 }
