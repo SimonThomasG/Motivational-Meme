@@ -1,0 +1,27 @@
+html {
+  background-color: black;
+  font-family: "Caveat", cursive;
+  font-family: "Freehand", cursive;
+  font-family: "Libre Baskerville", serif;
+}
+
+#box{
+    width: 50%;
+    margin: 25%;
+}
+
+#image {
+    border: 5px solid white;
+    width: 100%;
+}
+h1 {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+    padding: 0px;
+}
