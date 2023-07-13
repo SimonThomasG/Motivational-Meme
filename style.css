@@ -18,13 +18,14 @@ h1 {
   color: white;
   text-transform: uppercase;
   text-align: center;
+  font-size: 3rem;
   margin-bottom: 0%;
 }
 
 p{
    color: white;
     text-align: center;
-    font-size: 120%;
+    font-size: 3rem;
     margin-top: 0%;
   
 }
